@@ -1,1 +1,1 @@
-# ICS4U1-Projects for Java Processing
+ICS4U1-Projects
